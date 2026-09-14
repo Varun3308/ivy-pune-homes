@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: ivy-pune-homes
+    runtime: node
+    plan: free
+    buildCommand: npm ci --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: NODE_ENV
+        value: production
+      - key: IVY_API_BASE
+        value: https://solve.ivy.homes
+      - key: IVY_API_KEY
+        sync: false

@@ -1,0 +1,7 @@
+node_modules
+dist
+data
+package-lock.json
+statement.md
+API_REFERENCE.md
+submission.template.json
