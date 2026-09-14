@@ -244,11 +244,13 @@ add(
   data.summary.project_mismatches.slice(0, 15).map((x) => x.project_id),
 );
 add(
-  '/v1/listings', 'sorting', 'sort_by=posted_at sorts listings by their posted timestamp.',
-  'The returned sequence is not chronological even in the default ascending direction: MAG-3002999 (2026-01-13T14:42:00Z) precedes MAG-3000481 (2026-01-13T14:40:00Z), and 100-3000291 (2026-01-12T21:52:00Z) appears later.',
-  'Requested sort_by=posted_at&limit=50 and compared adjacent ISO timestamps and the independently sorted full crawl.',
-  'Sort parsed timestamps locally; do not assume the feed is chronologically ordered.',
-  ['MAG-3002999', 'MAG-3000481', '100-3000291']
+  "/v1/listings",
+  "sorting",
+  "sort_by=posted_at sorts listings by their posted timestamp.",
+  "The returned sequence is not chronological even in the default ascending direction: MAG-3002999 (2026-01-13T14:42:00Z) precedes MAG-3000481 (2026-01-13T14:40:00Z), and 100-3000291 (2026-01-12T21:52:00Z) appears later.",
+  "Requested sort_by=posted_at&limit=50 and compared adjacent ISO timestamps and the independently sorted full crawl.",
+  "Sort parsed timestamps locally; do not assume the feed is chronologically ordered.",
+  ["MAG-3002999", "MAG-3000481", "100-3000291"],
 );
 const submission = JSON.parse(await fs.readFile("submission.json", "utf8"));
 submission.findings = findings;

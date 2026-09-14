@@ -99,7 +99,9 @@ const slice = createSlice({
       delete state.savedPending[action.meta.arg.id];
       // Merge only the completed mutation: simultaneous saves must not overwrite each other.
       const { id, saved } = action.payload;
-      state.savedIds = saved ? [...new Set([...state.savedIds, id])] : state.savedIds.filter(value => value !== id);
+      state.savedIds = saved
+        ? [...new Set([...state.savedIds, id])]
+        : state.savedIds.filter((value) => value !== id);
       state.notice = {
         type: "success",
         message: action.meta.arg.saved

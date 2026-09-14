@@ -15,7 +15,8 @@
     "format": "prettier --write client/src server shared scripts tests *.js *.json *.md",
     "audit:login": "node scripts/login.mjs",
     "audit:findings": "node scripts/findings.mjs",
-    "audit": "npm run audit:login && npm run audit:download && npm run audit:probe && npm run audit:analyze && npm run audit:findings"
+    "audit": "npm run audit:login && npm run audit:download && npm run audit:probe && npm run audit:analyze && npm run audit:findings",
+    "submission:check": "node scripts/check-submission.mjs"
   },
   "engines": {
     "node": ">=22.12.0"

@@ -1,0 +1,1370 @@
+{
+  "counts": {
+    "listings": 3800,
+    "rentals": 1450,
+    "projects": 440
+  },
+  "answers": {
+    "total_listing_records": 3800,
+    "unique_properties": 3230,
+    "active_listings": 2998,
+    "corrupt_listing_ids": [
+      "100-3000174",
+      "100-3000236",
+      "100-3000608",
+      "100-3001067",
+      "100-3001543",
+      "100-3001548",
+      "100-3002344",
+      "100-3003022",
+      "DWE-3000235",
+      "DWE-3000299",
+      "DWE-3001307",
+      "DWE-3001835",
+      "DWE-3001849",
+      "DWE-3003186",
+      "MAG-3000020",
+      "MAG-3000932",
+      "MAG-3001263",
+      "MAG-3001979",
+      "MAG-3001986",
+      "SQU-3000026",
+      "SQU-3000419",
+      "SQU-3000591",
+      "SQU-3001297",
+      "SQU-3001698",
+      "SQU-3001738",
+      "SQU-3003195",
+      "ZER-3000380",
+      "ZER-3003055"
+    ],
+    "total_monthly_rent": 5184200,
+    "avg_price_per_sqft_2bhk": 10859.32,
+    "costliest_project": {
+      "project_id": "P30288",
+      "price_max_inr": 44700000
+    },
+    "listings_last_7_days": 128,
+    "fake_listing_ids": [
+      "100-3000074",
+      "100-3000097",
+      "100-3000190",
+      "100-3000266",
+      "100-3000280",
+      "100-3000368",
+      "100-3000434",
+      "100-3000496",
+      "100-3000647",
+      "100-3000709",
+      "100-3000767",
+      "100-3000879",
+      "100-3000888",
+      "100-3000993",
+      "100-3001429",
+      "100-3001492",
+      "100-3001595",
+      "100-3001679",
+      "100-3001839",
+      "100-3001997",
+      "100-3001999",
+      "100-3002110",
+      "100-3002123",
+      "100-3002250",
+      "100-3002257",
+      "100-3002778",
+      "100-3002850",
+      "100-3002992",
+      "100-3003029",
+      "100-3003064",
+      "100-3003139",
+      "100-3003183",
+      "100-3003281",
+      "100-3003343",
+      "100-3003348",
+      "100-3003357",
+      "100-3003713",
+      "DWE-3000078",
+      "DWE-3000152",
+      "DWE-3000227",
+      "DWE-3000300",
+      "DWE-3000316",
+      "DWE-3000616",
+      "DWE-3000672",
+      "DWE-3000678",
+      "DWE-3000917",
+      "DWE-3000925",
+      "DWE-3000977",
+      "DWE-3001027",
+      "DWE-3001119",
+      "DWE-3001223",
+      "DWE-3001482",
+      "DWE-3001599",
+      "DWE-3001648",
+      "DWE-3002222",
+      "DWE-3002226",
+      "DWE-3002258",
+      "DWE-3002348",
+      "DWE-3002401",
+      "DWE-3002506",
+      "DWE-3002630",
+      "DWE-3002667",
+      "DWE-3002852",
+      "DWE-3002858",
+      "DWE-3002912",
+      "DWE-3002944",
+      "DWE-3003027",
+      "DWE-3003123",
+      "DWE-3003236",
+      "DWE-3003319",
+      "DWE-3003447",
+      "DWE-3003454",
+      "DWE-3003470",
+      "DWE-3003504",
+      "DWE-3003506",
+      "DWE-3003633",
+      "DWE-3003650",
+      "DWE-3003763",
+      "MAG-3000203",
+      "MAG-3000295",
+      "MAG-3000313",
+      "MAG-3000402",
+      "MAG-3000565",
+      "MAG-3000683",
+      "MAG-3000833",
+      "MAG-3000899",
+      "MAG-3000975",
+      "MAG-3000989",
+      "MAG-3001079",
+      "MAG-3001365",
+      "MAG-3001449",
+      "MAG-3001600",
+      "MAG-3001722",
+      "MAG-3001812",
+      "MAG-3001920",
+      "MAG-3002001",
+      "MAG-3002139",
+      "MAG-3002327",
+      "MAG-3002351",
+      "MAG-3002490",
+      "MAG-3002945",
+      "MAG-3002988",
+      "MAG-3003161",
+      "MAG-3003167",
+      "MAG-3003171",
+      "MAG-3003212",
+      "MAG-3003488",
+      "MAG-3003508",
+      "MAG-3003776",
+      "SQU-3000022",
+      "SQU-3000070",
+      "SQU-3000106",
+      "SQU-3000432",
+      "SQU-3000484",
+      "SQU-3000654",
+      "SQU-3000869",
+      "SQU-3000913",
+      "SQU-3001036",
+      "SQU-3001113",
+      "SQU-3001135",
+      "SQU-3001267",
+      "SQU-3001336",
+      "SQU-3001363",
+      "SQU-3001375",
+      "SQU-3001507",
+      "SQU-3001542",
+      "SQU-3001618",
+      "SQU-3001641",
+      "SQU-3001670",
+      "SQU-3001858",
+      "SQU-3001895",
+      "SQU-3001912",
+      "SQU-3001913",
+      "SQU-3002029",
+      "SQU-3002045",
+      "SQU-3002415",
+      "SQU-3002604",
+      "SQU-3002754",
+      "SQU-3002848",
+      "SQU-3002929",
+      "SQU-3002940",
+      "SQU-3002968",
+      "SQU-3003274",
+      "SQU-3003277",
+      "SQU-3003285",
+      "SQU-3003364",
+      "SQU-3003386",
+      "SQU-3003516",
+      "SQU-3003526",
+      "ZER-3000134",
+      "ZER-3000384",
+      "ZER-3000515",
+      "ZER-3000588",
+      "ZER-3000614",
+      "ZER-3000661",
+      "ZER-3000663",
+      "ZER-3000832",
+      "ZER-3000846",
+      "ZER-3000851",
+      "ZER-3000991",
+      "ZER-3001051",
+      "ZER-3001108",
+      "ZER-3001131",
+      "ZER-3001171",
+      "ZER-3001241",
+      "ZER-3001295",
+      "ZER-3001323",
+      "ZER-3001366",
+      "ZER-3001374",
+      "ZER-3001394",
+      "ZER-3001479",
+      "ZER-3001513",
+      "ZER-3001717",
+      "ZER-3001755",
+      "ZER-3001797",
+      "ZER-3001802",
+      "ZER-3001832",
+      "ZER-3001935",
+      "ZER-3001941",
+      "ZER-3002141",
+      "ZER-3002254",
+      "ZER-3002321",
+      "ZER-3002352",
+      "ZER-3002396",
+      "ZER-3002410",
+      "ZER-3002484",
+      "ZER-3002523",
+      "ZER-3002601",
+      "ZER-3002659",
+      "ZER-3002753",
+      "ZER-3002757",
+      "ZER-3002776",
+      "ZER-3002805",
+      "ZER-3002807",
+      "ZER-3002809",
+      "ZER-3002866",
+      "ZER-3002884",
+      "ZER-3002981",
+      "ZER-3003094",
+      "ZER-3003145",
+      "ZER-3003175",
+      "ZER-3003303",
+      "ZER-3003419",
+      "ZER-3003428",
+      "ZER-3003489"
+    ],
+    "projects_with_wrong_listing_count": 95
+  },
+  "unit_pairs": [
+    [
+      {
+        "id": "100-3003296",
+        "name": "century willows",
+        "source": "100acres",
+        "raw_area": 530,
+        "normalized_area": 530,
+        "latitude": 18.56572,
+        "longitude": 73.81523,
+        "floor": 17
+      },
+      {
+        "id": "MAG-3001291",
+        "name": "Century Willows",
+        "source": "magichomes",
+        "raw_area": 50,
+        "normalized_area": 538.1949999999999,
+        "latitude": 18.566,
+        "longitude": 73.81566,
+        "floor": 17
+      }
+    ],
+    [
+      {
+        "id": "MAG-3001327",
+        "name": "Rohan Meadows",
+        "source": "magichomes",
+        "raw_area": 137,
+        "normalized_area": 1474.6543,
+        "latitude": 18.62995,
+        "longitude": 73.72162,
+        "floor": 26
+      },
+      {
+        "id": "SQU-3003787",
+        "name": "Rohan Meadows Phase 1",
+        "source": "squarelane",
+        "raw_area": 1489,
+        "normalized_area": 1489,
+        "latitude": 18.62973,
+        "longitude": 73.7214,
+        "floor": 26
+      }
+    ],
+    [
+      {
+        "id": "MAG-3003434",
+        "name": "Adarsh Residency Phase 1",
+        "source": "magichomes",
+        "raw_area": 110,
+        "normalized_area": 1184.029,
+        "latitude": 18.40025,
+        "longitude": 73.98583,
+        "floor": 15
+      },
+      {
+        "id": "ZER-3002176",
+        "name": "Adarsh Residency",
+        "source": "zerobroker",
+        "raw_area": 1189,
+        "normalized_area": 1189,
+        "latitude": 18.40037,
+        "longitude": 73.98607,
+        "floor": 15
+      }
+    ],
+    [
+      {
+        "id": "MAG-3000126",
+        "name": "Aparna Willows",
+        "source": "magichomes",
+        "raw_area": 1667,
+        "normalized_area": 1667,
+        "latitude": 18.49265,
+        "longitude": 73.91894,
+        "floor": 5
+      },
+      {
+        "id": "MAG-3003618",
+        "name": "The Aparna Willows",
+        "source": "magichomes",
+        "raw_area": 154,
+        "normalized_area": 1657.6406,
+        "latitude": 18.49254,
+        "longitude": 73.91869,
+        "floor": 5
+      }
+    ],
+    [
+      {
+        "id": "MAG-3001504",
+        "name": "Salarpuria Terraces",
+        "source": "magichomes",
+        "raw_area": 109,
+        "normalized_area": 1173.2650999999998,
+        "latitude": 18.40705,
+        "longitude": 73.86705,
+        "floor": 6
+      },
+      {
+        "id": "MAG-3003505",
+        "name": "Salarpuria  Terraces",
+        "source": "magichomes",
+        "raw_area": 1173,
+        "normalized_area": 1173,
+        "latitude": 18.40752,
+        "longitude": 73.86687,
+        "floor": 6
+      }
+    ],
+    [
+      {
+        "id": "100-3000657",
+        "name": "Adarsh Elite",
+        "source": "100acres",
+        "raw_area": 744,
+        "normalized_area": 744,
+        "latitude": 18.54638,
+        "longitude": 73.74528,
+        "floor": 9
+      },
+      {
+        "id": "MAG-3003464",
+        "name": "ADARSH ELITE",
+        "source": "magichomes",
+        "raw_area": 69,
+        "normalized_area": 742.7090999999999,
+        "latitude": 18.54687,
+        "longitude": 73.74513,
+        "floor": 9
+      },
+      {
+        "id": "MAG-3003590",
+        "name": "Adarsh Elite Phase 1",
+        "source": "magichomes",
+        "raw_area": 68,
+        "normalized_area": 731.9452,
+        "latitude": 18.54614,
+        "longitude": 73.74553,
+        "floor": 9
+      }
+    ],
+    [
+      {
+        "id": "MAG-3000321",
+        "name": "My Home Grand",
+        "source": "magichomes",
+        "raw_area": 183,
+        "normalized_area": 1969.7937,
+        "latitude": 18.67334,
+        "longitude": 73.91342,
+        "floor": 7
+      },
+      {
+        "id": "ZER-3003467",
+        "name": "My  Home  Grand",
+        "source": "zerobroker",
+        "raw_area": 1979,
+        "normalized_area": 1979,
+        "latitude": 18.67355,
+        "longitude": 73.91301,
+        "floor": 7
+      }
+    ],
+    [
+      {
+        "id": "MAG-3001727",
+        "name": "Adarsh Willows",
+        "source": "magichomes",
+        "raw_area": 134,
+        "normalized_area": 1442.3626,
+        "latitude": 18.4019,
+        "longitude": 73.94855,
+        "floor": 5
+      },
+      {
+        "id": "ZER-3003440",
+        "name": "Adarsh  Willows",
+        "source": "zerobroker",
+        "raw_area": 1443,
+        "normalized_area": 1443,
+        "latitude": 18.40153,
+        "longitude": 73.94904,
+        "floor": 5
+      }
+    ]
+  ],
+  "networks": [
+    {
+      "phone": "+912009460980",
+      "names": 4,
+      "localities": 10,
+      "relative_price": 0.5003174603174604,
+      "count": 29,
+      "listing_ids": [
+        "100-3000097",
+        "100-3001997",
+        "100-3002110",
+        "100-3002123",
+        "100-3002257",
+        "100-3003029",
+        "DWE-3000227",
+        "DWE-3001223",
+        "DWE-3002258",
+        "DWE-3003123",
+        "DWE-3003236",
+        "DWE-3003319",
+        "DWE-3003504",
+        "DWE-3003763",
+        "MAG-3001600",
+        "MAG-3001722",
+        "MAG-3003171",
+        "MAG-3003212",
+        "MAG-3003776",
+        "SQU-3000913",
+        "SQU-3001913",
+        "SQU-3002754",
+        "SQU-3002929",
+        "ZER-3000991",
+        "ZER-3001479",
+        "ZER-3001832",
+        "ZER-3002141",
+        "ZER-3002321",
+        "ZER-3003428"
+      ]
+    },
+    {
+      "phone": "+912009819040",
+      "names": 3,
+      "localities": 9,
+      "relative_price": 0.5560070450865806,
+      "count": 30,
+      "listing_ids": [
+        "100-3000074",
+        "100-3001429",
+        "100-3001999",
+        "100-3002850",
+        "DWE-3000616",
+        "DWE-3000977",
+        "DWE-3001027",
+        "DWE-3001599",
+        "DWE-3002506",
+        "DWE-3002630",
+        "DWE-3003454",
+        "DWE-3003633",
+        "MAG-3000402",
+        "MAG-3000989",
+        "MAG-3001920",
+        "SQU-3001267",
+        "SQU-3001363",
+        "SQU-3003386",
+        "SQU-3003516",
+        "ZER-3000614",
+        "ZER-3001241",
+        "ZER-3001295",
+        "ZER-3001366",
+        "ZER-3001513",
+        "ZER-3001755",
+        "ZER-3001941",
+        "ZER-3002254",
+        "ZER-3002753",
+        "ZER-3002807",
+        "ZER-3003419"
+      ]
+    },
+    {
+      "phone": "+912009027125",
+      "names": 5,
+      "localities": 9,
+      "relative_price": 0.5530113292884189,
+      "count": 29,
+      "listing_ids": [
+        "100-3000496",
+        "100-3000647",
+        "100-3000709",
+        "100-3000993",
+        "100-3002992",
+        "100-3003281",
+        "100-3003348",
+        "DWE-3001119",
+        "DWE-3002222",
+        "DWE-3002912",
+        "DWE-3002944",
+        "MAG-3000833",
+        "MAG-3002001",
+        "MAG-3002327",
+        "MAG-3003167",
+        "SQU-3000869",
+        "SQU-3001036",
+        "SQU-3001895",
+        "SQU-3002029",
+        "SQU-3002045",
+        "SQU-3002604",
+        "SQU-3003285",
+        "ZER-3000384",
+        "ZER-3000846",
+        "ZER-3001108",
+        "ZER-3002396",
+        "ZER-3002484",
+        "ZER-3002776",
+        "ZER-3003303"
+      ]
+    },
+    {
+      "phone": "+912001427722",
+      "names": 4,
+      "localities": 9,
+      "relative_price": 0.5591833748424744,
+      "count": 29,
+      "listing_ids": [
+        "100-3000190",
+        "100-3000280",
+        "100-3000767",
+        "100-3000879",
+        "100-3001492",
+        "100-3001839",
+        "100-3003343",
+        "DWE-3002226",
+        "DWE-3002667",
+        "MAG-3000313",
+        "MAG-3000565",
+        "MAG-3000975",
+        "MAG-3001365",
+        "MAG-3002351",
+        "MAG-3002945",
+        "SQU-3000432",
+        "SQU-3000484",
+        "SQU-3000654",
+        "SQU-3001507",
+        "SQU-3001641",
+        "SQU-3001858",
+        "SQU-3001912",
+        "ZER-3000515",
+        "ZER-3000588",
+        "ZER-3000851",
+        "ZER-3002352",
+        "ZER-3002809",
+        "ZER-3003175",
+        "ZER-3003489"
+      ]
+    },
+    {
+      "phone": "+912006085798",
+      "names": 5,
+      "localities": 9,
+      "relative_price": 0.5564106802647348,
+      "count": 30,
+      "listing_ids": [
+        "100-3000368",
+        "100-3000888",
+        "100-3002250",
+        "100-3003064",
+        "100-3003139",
+        "100-3003713",
+        "DWE-3000152",
+        "DWE-3000316",
+        "DWE-3000672",
+        "DWE-3000917",
+        "DWE-3001648",
+        "DWE-3002348",
+        "DWE-3002858",
+        "MAG-3000295",
+        "MAG-3001079",
+        "MAG-3002490",
+        "MAG-3002988",
+        "SQU-3000106",
+        "SQU-3001618",
+        "SQU-3002940",
+        "SQU-3003274",
+        "ZER-3000134",
+        "ZER-3000832",
+        "ZER-3001051",
+        "ZER-3001323",
+        "ZER-3001394",
+        "ZER-3001802",
+        "ZER-3001935",
+        "ZER-3002659",
+        "ZER-3003094"
+      ]
+    },
+    {
+      "phone": "+912006064871",
+      "names": 5,
+      "localities": 10,
+      "relative_price": 0.5685971323580179,
+      "count": 29,
+      "listing_ids": [
+        "DWE-3000300",
+        "DWE-3000678",
+        "DWE-3000925",
+        "DWE-3001482",
+        "DWE-3002401",
+        "DWE-3003027",
+        "DWE-3003650",
+        "MAG-3000683",
+        "MAG-3000899",
+        "MAG-3003161",
+        "MAG-3003488",
+        "MAG-3003508",
+        "SQU-3000022",
+        "SQU-3001135",
+        "SQU-3001336",
+        "SQU-3002415",
+        "SQU-3002848",
+        "SQU-3002968",
+        "SQU-3003364",
+        "ZER-3000663",
+        "ZER-3001131",
+        "ZER-3001171",
+        "ZER-3001374",
+        "ZER-3001717",
+        "ZER-3002523",
+        "ZER-3002601",
+        "ZER-3002757",
+        "ZER-3002884",
+        "ZER-3003145"
+      ]
+    },
+    {
+      "phone": "+912002255305",
+      "names": 4,
+      "localities": 8,
+      "relative_price": 0.5195888642495372,
+      "count": 29,
+      "listing_ids": [
+        "100-3000266",
+        "100-3000434",
+        "100-3001595",
+        "100-3001679",
+        "100-3002778",
+        "100-3003183",
+        "100-3003357",
+        "DWE-3000078",
+        "DWE-3002852",
+        "DWE-3003447",
+        "DWE-3003470",
+        "DWE-3003506",
+        "MAG-3000203",
+        "MAG-3001449",
+        "MAG-3001812",
+        "MAG-3002139",
+        "SQU-3000070",
+        "SQU-3001113",
+        "SQU-3001375",
+        "SQU-3001542",
+        "SQU-3001670",
+        "SQU-3003277",
+        "SQU-3003526",
+        "ZER-3000661",
+        "ZER-3001797",
+        "ZER-3002410",
+        "ZER-3002805",
+        "ZER-3002866",
+        "ZER-3002981"
+      ]
+    }
+  ],
+  "project_mismatches": [
+    {
+      "project_id": "P30003",
+      "name": "Nitesh Willows",
+      "reported": 7,
+      "observed": 4
+    },
+    {
+      "project_id": "P30008",
+      "name": "Rohan Terraces",
+      "reported": 0,
+      "observed": 2
+    },
+    {
+      "project_id": "P30010",
+      "name": "Lodha Terraces",
+      "reported": 0,
+      "observed": 5
+    },
+    {
+      "project_id": "P30015",
+      "name": "Century Grand",
+      "reported": 0,
+      "observed": 3
+    },
+    {
+      "project_id": "P30021",
+      "name": "Adarsh Crest",
+      "reported": 12,
+      "observed": 2
+    },
+    {
+      "project_id": "P30062",
+      "name": "Adarsh Serenity",
+      "reported": 0,
+      "observed": 1
+    },
+    {
+      "project_id": "P30063",
+      "name": "Rohan Serenity",
+      "reported": 14,
+      "observed": 2
+    },
+    {
+      "project_id": "P30066",
+      "name": "Godrej Pavilion",
+      "reported": 0,
+      "observed": 2
+    },
+    {
+      "project_id": "P30074",
+      "name": "Mantri Meadows",
+      "reported": 0,
+      "observed": 6
+    },
+    {
+      "project_id": "P30075",
+      "name": "Century Residency",
+      "reported": 9,
+      "observed": 5
+    },
+    {
+      "project_id": "P30080",
+      "name": "Salarpuria Sanctuary",
+      "reported": 13,
+      "observed": 11
+    },
+    {
+      "project_id": "P30081",
+      "name": "Assetz Heights",
+      "reported": 18,
+      "observed": 8
+    },
+    {
+      "project_id": "P30082",
+      "name": "My Home Residency",
+      "reported": 14,
+      "observed": 2
+    },
+    {
+      "project_id": "P30090",
+      "name": "Lodha Park",
+      "reported": 18,
+      "observed": 4
+    },
+    {
+      "project_id": "P30091",
+      "name": "Salarpuria Willows",
+      "reported": 13,
+      "observed": 3
+    },
+    {
+      "project_id": "P30096",
+      "name": "Assetz Park",
+      "reported": 0,
+      "observed": 4
+    },
+    {
+      "project_id": "P30098",
+      "name": "Brigade Terraces",
+      "reported": 0,
+      "observed": 1
+    },
+    {
+      "project_id": "P30099",
+      "name": "Century Elite",
+      "reported": 10,
+      "observed": 6
+    },
+    {
+      "project_id": "P30104",
+      "name": "Casagrand Pavilion",
+      "reported": 0,
+      "observed": 8
+    },
+    {
+      "project_id": "P30107",
+      "name": "Brigade Meadows",
+      "reported": 10,
+      "observed": 2
+    },
+    {
+      "project_id": "P30117",
+      "name": "Brigade Boulevard",
+      "reported": 9,
+      "observed": 5
+    },
+    {
+      "project_id": "P30118",
+      "name": "Puravankara Greens",
+      "reported": 19,
+      "observed": 6
+    },
+    {
+      "project_id": "P30120",
+      "name": "Kolte Patil Grand",
+      "reported": 0,
+      "observed": 8
+    },
+    {
+      "project_id": "P30134",
+      "name": "Casagrand Elite",
+      "reported": 0,
+      "observed": 4
+    },
+    {
+      "project_id": "P30138",
+      "name": "Casagrand Habitat",
+      "reported": 0,
+      "observed": 5
+    },
+    {
+      "project_id": "P30139",
+      "name": "Prestige Park",
+      "reported": 17,
+      "observed": 4
+    },
+    {
+      "project_id": "P30141",
+      "name": "Adarsh Grand",
+      "reported": 9,
+      "observed": 4
+    },
+    {
+      "project_id": "P30144",
+      "name": "Lodha Woods",
+      "reported": 11,
+      "observed": 4
+    },
+    {
+      "project_id": "P30156",
+      "name": "My Home Heights",
+      "reported": 18,
+      "observed": 7
+    },
+    {
+      "project_id": "P30158",
+      "name": "Adarsh Residency",
+      "reported": 12,
+      "observed": 1
+    },
+    {
+      "project_id": "P30163",
+      "name": "Puravankara Residency",
+      "reported": 9,
+      "observed": 3
+    },
+    {
+      "project_id": "P30165",
+      "name": "Aparna Boulevard",
+      "reported": 0,
+      "observed": 1
+    },
+    {
+      "project_id": "P30167",
+      "name": "Rohan Crest",
+      "reported": 0,
+      "observed": 3
+    },
+    {
+      "project_id": "P30169",
+      "name": "My Home Terraces",
+      "reported": 21,
+      "observed": 7
+    },
+    {
+      "project_id": "P30172",
+      "name": "Brigade Enclave",
+      "reported": 0,
+      "observed": 1
+    },
+    {
+      "project_id": "P30173",
+      "name": "Adarsh Meadows",
+      "reported": 13,
+      "observed": 2
+    },
+    {
+      "project_id": "P30174",
+      "name": "Lodha Vista",
+      "reported": 0,
+      "observed": 6
+    },
+    {
+      "project_id": "P30175",
+      "name": "Godrej Residency",
+      "reported": 0,
+      "observed": 6
+    },
+    {
+      "project_id": "P30178",
+      "name": "Lodha Residency",
+      "reported": 17,
+      "observed": 6
+    },
+    {
+      "project_id": "P30179",
+      "name": "Nitesh Pavilion",
+      "reported": 5,
+      "observed": 3
+    },
+    {
+      "project_id": "P30184",
+      "name": "Sobha Willows",
+      "reported": 0,
+      "observed": 4
+    },
+    {
+      "project_id": "P30190",
+      "name": "Godrej Enclave",
+      "reported": 0,
+      "observed": 5
+    },
+    {
+      "project_id": "P30196",
+      "name": "Brigade Elite",
+      "reported": 8,
+      "observed": 4
+    },
+    {
+      "project_id": "P30205",
+      "name": "Puravankara Pavilion",
+      "reported": 0,
+      "observed": 3
+    },
+    {
+      "project_id": "P30206",
+      "name": "Mantri Terraces",
+      "reported": 15,
+      "observed": 6
+    },
+    {
+      "project_id": "P30212",
+      "name": "Sobha Vista",
+      "reported": 0,
+      "observed": 5
+    },
+    {
+      "project_id": "P30217",
+      "name": "Puravankara Grand",
+      "reported": 0,
+      "observed": 8
+    },
+    {
+      "project_id": "P30219",
+      "name": "Shriram Park",
+      "reported": 15,
+      "observed": 5
+    },
+    {
+      "project_id": "P30221",
+      "name": "Kolte Patil Grand",
+      "reported": 11,
+      "observed": 2
+    },
+    {
+      "project_id": "P30230",
+      "name": "Assetz Elite",
+      "reported": 0,
+      "observed": 6
+    },
+    {
+      "project_id": "P30233",
+      "name": "Lodha Meadows",
+      "reported": 15,
+      "observed": 4
+    },
+    {
+      "project_id": "P30239",
+      "name": "Lodha Habitat",
+      "reported": 0,
+      "observed": 10
+    },
+    {
+      "project_id": "P30240",
+      "name": "Rohan Terraces",
+      "reported": 0,
+      "observed": 6
+    },
+    {
+      "project_id": "P30241",
+      "name": "Casagrand Habitat",
+      "reported": 0,
+      "observed": 2
+    },
+    {
+      "project_id": "P30247",
+      "name": "Kolte Patil Grand",
+      "reported": 0,
+      "observed": 3
+    },
+    {
+      "project_id": "P30248",
+      "name": "My Home Crest",
+      "reported": 0,
+      "observed": 1
+    },
+    {
+      "project_id": "P30256",
+      "name": "Mantri Serenity",
+      "reported": 10,
+      "observed": 4
+    },
+    {
+      "project_id": "P30257",
+      "name": "Prestige Willows",
+      "reported": 0,
+      "observed": 5
+    },
+    {
+      "project_id": "P30260",
+      "name": "Rohan Vista",
+      "reported": 0,
+      "observed": 6
+    },
+    {
+      "project_id": "P30261",
+      "name": "Kolte Patil Residency",
+      "reported": 0,
+      "observed": 3
+    },
+    {
+      "project_id": "P30263",
+      "name": "Casagrand Enclave",
+      "reported": 15,
+      "observed": 5
+    },
+    {
+      "project_id": "P30267",
+      "name": "Assetz Habitat",
+      "reported": 13,
+      "observed": 3
+    },
+    {
+      "project_id": "P30268",
+      "name": "Rohan Serenity",
+      "reported": 16,
+      "observed": 3
+    },
+    {
+      "project_id": "P30274",
+      "name": "Aparna Boulevard",
+      "reported": 4,
+      "observed": 0
+    },
+    {
+      "project_id": "P30275",
+      "name": "Adarsh Pavilion",
+      "reported": 0,
+      "observed": 2
+    },
+    {
+      "project_id": "P30278",
+      "name": "Mantri Vista",
+      "reported": 4,
+      "observed": 10
+    },
+    {
+      "project_id": "P30279",
+      "name": "Nitesh Park",
+      "reported": 0,
+      "observed": 4
+    },
+    {
+      "project_id": "P30283",
+      "name": "Century Greens",
+      "reported": 8,
+      "observed": 6
+    },
+    {
+      "project_id": "P30307",
+      "name": "Lodha Vista",
+      "reported": 0,
+      "observed": 2
+    },
+    {
+      "project_id": "P30322",
+      "name": "My Home Park",
+      "reported": 0,
+      "observed": 2
+    },
+    {
+      "project_id": "P30323",
+      "name": "Shriram Meadows",
+      "reported": 16,
+      "observed": 2
+    },
+    {
+      "project_id": "P30328",
+      "name": "Godrej Crest",
+      "reported": 8,
+      "observed": 4
+    },
+    {
+      "project_id": "P30342",
+      "name": "Brigade Vista",
+      "reported": 16,
+      "observed": 5
+    },
+    {
+      "project_id": "P30343",
+      "name": "Salarpuria Elite",
+      "reported": 7,
+      "observed": 2
+    },
+    {
+      "project_id": "P30344",
+      "name": "Mantri Habitat",
+      "reported": 3,
+      "observed": 6
+    },
+    {
+      "project_id": "P30345",
+      "name": "My Home Pavilion",
+      "reported": 2,
+      "observed": 7
+    },
+    {
+      "project_id": "P30348",
+      "name": "Salarpuria Park",
+      "reported": 0,
+      "observed": 5
+    },
+    {
+      "project_id": "P30349",
+      "name": "Rohan Heights",
+      "reported": 9,
+      "observed": 6
+    },
+    {
+      "project_id": "P30350",
+      "name": "Brigade Terraces",
+      "reported": 0,
+      "observed": 8
+    },
+    {
+      "project_id": "P30357",
+      "name": "Sobha Crest",
+      "reported": 3,
+      "observed": 7
+    },
+    {
+      "project_id": "P30363",
+      "name": "Kolte Patil Boulevard",
+      "reported": 0,
+      "observed": 3
+    },
+    {
+      "project_id": "P30372",
+      "name": "Mantri Grand",
+      "reported": 0,
+      "observed": 3
+    },
+    {
+      "project_id": "P30374",
+      "name": "Aparna Pavilion",
+      "reported": 4,
+      "observed": 6
+    },
+    {
+      "project_id": "P30375",
+      "name": "Sobha Terraces",
+      "reported": 13,
+      "observed": 1
+    },
+    {
+      "project_id": "P30378",
+      "name": "Lodha Residency",
+      "reported": 16,
+      "observed": 6
+    },
+    {
+      "project_id": "P30388",
+      "name": "Godrej Meadows",
+      "reported": 6,
+      "observed": 4
+    },
+    {
+      "project_id": "P30390",
+      "name": "Aparna Terraces",
+      "reported": 8,
+      "observed": 3
+    },
+    {
+      "project_id": "P30401",
+      "name": "Salarpuria Woods",
+      "reported": 14,
+      "observed": 5
+    },
+    {
+      "project_id": "P30403",
+      "name": "Prestige Serenity",
+      "reported": 15,
+      "observed": 10
+    },
+    {
+      "project_id": "P30409",
+      "name": "Nitesh Crest",
+      "reported": 2,
+      "observed": 5
+    },
+    {
+      "project_id": "P30413",
+      "name": "Casagrand Elite",
+      "reported": 18,
+      "observed": 5
+    },
+    {
+      "project_id": "P30419",
+      "name": "Lodha Vista",
+      "reported": 0,
+      "observed": 2
+    },
+    {
+      "project_id": "P30423",
+      "name": "Nitesh Crest",
+      "reported": 0,
+      "observed": 4
+    },
+    {
+      "project_id": "P30433",
+      "name": "Assetz Habitat",
+      "reported": 11,
+      "observed": 6
+    },
+    {
+      "project_id": "P30439",
+      "name": "Casagrand Grand",
+      "reported": 10,
+      "observed": 1
+    }
+  ],
+  "duplicate_group_examples": [
+    [
+      "100-3000777",
+      "SQU-3003577"
+    ],
+    [
+      "DWE-3002708",
+      "DWE-3003745"
+    ],
+    [
+      "100-3003296",
+      "MAG-3001291"
+    ],
+    [
+      "DWE-3000557",
+      "SQU-3003620"
+    ],
+    [
+      "100-3003473",
+      "SQU-3001542"
+    ],
+    [
+      "100-3002617",
+      "SQU-3003389",
+      "ZER-3003666"
+    ],
+    [
+      "MAG-3001327",
+      "SQU-3003787"
+    ],
+    [
+      "SQU-3002040",
+      "ZER-3003234"
+    ],
+    [
+      "100-3003797",
+      "MAG-3003083"
+    ],
+    [
+      "100-3003544",
+      "SQU-3001674"
+    ],
+    [
+      "MAG-3003363",
+      "ZER-3002491"
+    ],
+    [
+      "SQU-3000373",
+      "SQU-3003265"
+    ],
+    [
+      "SQU-3002438",
+      "ZER-3003685"
+    ],
+    [
+      "MAG-3003434",
+      "ZER-3002176"
+    ],
+    [
+      "DWE-3002797",
+      "ZER-3003587"
+    ],
+    [
+      "100-3003290",
+      "DWE-3000095"
+    ],
+    [
+      "DWE-3003683",
+      "MAG-3000987"
+    ],
+    [
+      "100-3003674",
+      "ZER-3002004"
+    ],
+    [
+      "SQU-3002448",
+      "ZER-3003355"
+    ],
+    [
+      "SQU-3003138",
+      "SQU-3003588"
+    ]
+  ]
+}
